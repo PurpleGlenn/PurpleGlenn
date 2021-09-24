@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Glenn,. I'm a music lover looking for help with creating a website for music downloads
+I would like to collaborate with other developers for projects
